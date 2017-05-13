@@ -1,3 +1,7 @@
+# personal files used in the directory
+*.cpp
+*.exe
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
