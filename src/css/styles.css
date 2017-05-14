@@ -5,6 +5,10 @@ html, body {
   overflow: hidden;
   background-color: black; }
 
+canvas {
+  position: absolute;
+  pointer-events: none; }
+
 #panel {
   position: absolute;
   top: 0px;
